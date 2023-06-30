@@ -1,2 +1,2 @@
-# Poject Name
-$$ Drum kit Site using HTML, CSS, and JAVASCRIPT
+# Project Name
+🥁🥁 Drum kit Site using HTML, CSS, and JAVASCRIPT
