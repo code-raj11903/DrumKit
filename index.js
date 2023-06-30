@@ -37,7 +37,7 @@ function maksound(key)
             break;
         case "d":var sound = new Audio("/sounds/tom-4.mp3");
         sound.play();
-            break;
+            break; 
         case "j":var sound = new Audio("/sounds/snare.mp3");
         sound.play();
             break;
